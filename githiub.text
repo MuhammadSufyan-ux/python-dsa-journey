@@ -1,0 +1,4 @@
+git config --global user.name "Muhammad Sufyan"
+git config --global user.email "YOUR_GITHUB_EMAIL"
+git commit -m "Initial commit: Python DSA learning journey"
+git push -u origin main
