@@ -69,6 +69,13 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - VS Code
 - Git
 - GitHub
+- Pytorch
+- NumPy
+- Research 
+- Matplotlib
+- Django
+- Scikit Learn
+- Fast API
 
 ---
 
