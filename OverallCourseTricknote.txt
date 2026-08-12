@@ -1,0 +1,7 @@
+(3)--------"Ripple"
+ripple are those thing when we use the command for teh checking in the terminal like that 
+ "python --version", "npm --version" , "sk learn".
+
+
+
+(4)---------""
