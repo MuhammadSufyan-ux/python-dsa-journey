@@ -26,7 +26,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 
 
 ## Projects after building concepts on each lecture
-
+- IF , Else , Dic , Loop for PASS AND FAIL mini tool CLI
 
 
 ## 🧠 Topics I Am Learning
@@ -57,7 +57,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 1 | Python Basics | ✅ |
 | Day 2 | Conditions & Input | ✅ |
 | Day 3 | list and Dictionary with all its method on data | ✅|
-| Day 4 | List and Dictionary with all type of loop| ✅|
+| Day 4 | List and Dictionary with all type of loop , and with Decession statements| ✅|
 
 
 
