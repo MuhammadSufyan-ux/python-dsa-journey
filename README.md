@@ -18,8 +18,8 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 
 - `DAY_1_LESSONS/` — Python fundamentals
 - `DAY_2_LESSONS/` — Conditions, input, and type checking
-- `DAY_3_LESSONS/` — Functions, loops, and exercises
-- `DAY_4_LESSONS/` — Coming soon...
+- `DAY_3_LESSONS/` —  list and Dictionary with all its method on data
+- `DAY_4_LESSONS/` — List and Dictionary with all type of loop
 - `DSA/` — Data Structures & Algorithms
 - `PROJECTS/` — Python projects
 
@@ -29,6 +29,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - Variables and data types
 - Input and output
 - List and its methods
+- Dictionary and all its methods
 
 ## 🚀 Future Goals
 
@@ -49,12 +50,15 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 |---|---|---|
 | Day 1 | Python Basics | ✅ |
 | Day 2 | Conditions & Input | ✅ |
-| Day 3 | list and its all  method on data | ✅|
+| Day 3 | list and Dictionary with all its method on data | ✅|
+| Day 4 | List and Dictionary with all type of loop| ✅|
+
 
 
 ## 💻 Tools
 
 - Python
+- DSA
 - VS Code
 - Git
 - GitHub
@@ -76,4 +80,5 @@ https://lavenderblush-monkey-546500.hostingersite.com/
 ---
 
 > Learning every day. Building every day. Improving every day. 🐍🔥
->+9203140838066
+> +9203140838066
+
