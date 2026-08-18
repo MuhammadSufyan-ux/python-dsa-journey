@@ -137,6 +137,9 @@ std11=std10.copy()
 print (std11)
 
 
+
+# this is list of all the methods of list in python and their kaam in urdu language for example:
+
 # | Method      | Kaam                      |
 # | ----------- | ------------------------- |
 # | `append()`  | End mein 1 item add       |

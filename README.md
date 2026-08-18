@@ -28,18 +28,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - Python fundamentals
 - Variables and data types
 - Input and output
-- Conditions
-- Loops
-- Functions
-- Lists, tuples, sets, dictionaries
-- File handling
-- Exception handling
-- Object-Oriented Programming
-- Modules and packages
-- Git & GitHub
-- Data Structures
-- Algorithms
-- Problem solving
+- List and its methods
 
 ## 🚀 Future Goals
 
@@ -77,6 +66,14 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - Scikit Learn
 - Fast API
 
+
+---
+Portfolio website:
+https://lavenderblush-monkey-546500.hostingersite.com/
+---
+
+
 ---
 
 > Learning every day. Building every day. Improving every day. 🐍🔥
+>+9203140838066
