@@ -14,14 +14,20 @@ Learning path:
 
 Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Research
 
-## 📚 Repository Structure
+## 📚 Repository lectures and practices Structure
 
 - `DAY_1_LESSONS/` — Python fundamentals
 - `DAY_2_LESSONS/` — Conditions, input, and type checking
 - `DAY_3_LESSONS/` —  list and Dictionary with all its method on data
 - `DAY_4_LESSONS/` — List and Dictionary with all type of loop
-- `DSA/` — Data Structures & Algorithms
-- `PROJECTS/` — Python projects
+
+
+
+
+
+## Projects after building concepts on each lecture
+
+
 
 ## 🧠 Topics I Am Learning
 
