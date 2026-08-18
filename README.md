@@ -26,7 +26,9 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 
 
 ## Projects after building concepts on each lecture
-- IF , Else , Dic , Loop for PASS AND FAIL mini tool CLI
+- students DMC managements system
+- Trafic Light system
+
 
 
 ## 🧠 Topics I Am Learning
