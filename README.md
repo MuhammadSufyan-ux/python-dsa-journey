@@ -60,8 +60,8 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 |---|---|---|
 | Day 1 | Python Basics | ✅ |
 | Day 2 | Conditions & Input | ✅ |
-| Day 3 | Functions & Loops | 🔄 |
-| Day 4 | Coming Soon | ⏳ |
+| Day 3 | list and its all  method on data | ✅|
+
 
 ## 💻 Tools
 
