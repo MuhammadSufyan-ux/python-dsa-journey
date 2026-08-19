@@ -16,10 +16,10 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 
 ## 📚 Repository lectures and practices Structure
 
-- `DAY_1_LESSONS/` — Python fundamentals
-- `DAY_2_LESSONS/` — Conditions, input, and type checking
-- `DAY_3_LESSONS/` —  list and Dictionary with all its method on data
-- `DAY_4_LESSONS/` — List and Dictionary with all type of loop
+-  Python fundamentals
+-  Conditions, input, and type checking
+-  List and Dictionary with all its method on data
+-  List and Dictionary with all type of loop
 
 
 
@@ -28,7 +28,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 ## Projects after building concepts on each lecture
 - students DMC managements system
 - Trafic Light system
-
+- Simple caculator
 
 
 ## 🧠 Topics I Am Learning
