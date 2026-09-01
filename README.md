@@ -34,10 +34,20 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 ## 🧠 Topics I Am Learning
 
 - Python fundamentals
+- comments and its types
 - Variables and data types
 - Input and output
 - List and its methods
 - Dictionary and all its methods
+- Function and its all methods
+- Loops and its all types
+- Tuple and its all methods 
+- conditional statements and its all methods
+- Data type checking 
+- String and its all method 
+- string | list | loop together 
+- conditional statements | loop and string together 
+
 
 ## 🚀 Future Goals
 
@@ -60,6 +70,14 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 2 | Conditions & Input | ✅ |
 | Day 3 | list and Dictionary with all its method on data | ✅|
 | Day 4 | List and Dictionary with all type of loop , and with Decession statements| ✅|
+| Day 5 |Function and its all methods| ✅|
+| Day 5|Loops and its all types| ✅|
+| Day 5 |Tuple and its all methods | ✅|
+| Day 6 |conditional statements and its all methods| ✅|
+| Day 6 |Data type checking | ✅|
+| Day 7 |String and its all method | ✅|
+| Day 7 |string | list | loop together | ✅|
+| Day 8 |conditional statements | loop and string together | ✅|
 
 
 
