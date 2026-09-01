@@ -76,8 +76,8 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 6 |conditional statements and its all methods| ✅|
 | Day 6 |Data type checking | ✅|
 | Day 7 |String and its all method | ✅|
-| Day 7 |string | list | loop together | ✅|
-| Day 8 |conditional statements | loop and string together | ✅|
+| Day 7 |string , list , loop together | ✅|
+| Day 8 |conditional statements , loop and string together | ✅|
 
 
 
