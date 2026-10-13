@@ -47,6 +47,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - String and its all method 
 - string | list | loop together 
 - conditional statements | loop and string together 
+- File handling : write , read , update and delete
 
 
 ## 🚀 Future Goals
@@ -78,6 +79,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 7 |String and its all method | ✅|
 | Day 7 |string , list , loop together | ✅|
 | Day 8 |conditional statements , loop and string together | ✅|
+| Day 9 |File handling : write , read , update and delete | ✅|
 
 
 
@@ -88,7 +90,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - VS Code
 - Git
 - GitHub
-- Pytorch
+- Pytorch/TensorFlow
 - NumPy
 - Research 
 - Matplotlib
