@@ -48,13 +48,15 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - string | list | loop together 
 - conditional statements | loop and string together 
 - File handling : write , read , update and delete
-
+- OOP: Object and Class
+- Types of Attributes: instance , class 
 
 ## 🚀 Future Goals
 
 - Become strong in Python
 - Master DSA
 - Learn NumPy and Pandas
+- Learn for Data Science
 - Learn Machine Learning
 - Learn Deep Learning
 - Learn PyTorch
@@ -80,7 +82,8 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 7 |string , list , loop together | ✅|
 | Day 8 |conditional statements , loop and string together | ✅|
 | Day 9 |File handling : write , read , update and delete | ✅|
-
+| Day 10 |OOP: Object and Class  | ✅|
+| Day 11 |Type of Attributes: Instance and class attributes  | ✅|
 
 
 ## 💻 Tools
@@ -92,6 +95,8 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 - GitHub
 - Pytorch/TensorFlow
 - NumPy
+- Jupyter Notebook
+- Google Collab
 - Research 
 - Matplotlib
 - Django
