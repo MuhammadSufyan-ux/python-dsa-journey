@@ -84,6 +84,7 @@ Python → DSA → Mathematics → Machine Learning → Deep Learning → AI Res
 | Day 9 |File handling : write , read , update and delete | ✅|
 | Day 10 |OOP: Object and Class  | ✅|
 | Day 11 |Type of Attributes: Instance and class attributes  | ✅|
+| Day 12 |Revise all recent topics and do projects on it  | ✅|
 
 
 ## 💻 Tools
